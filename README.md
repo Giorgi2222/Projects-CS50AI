@@ -13,7 +13,7 @@ Projects for [CS50's Introduction to Artificial Intelligence with Python](http:/
     - [PageRank](./pagerank/) : Evaluates pagerank using the PageRank Algorithm using corpus of HTML webpage.
     - [Heredity](./heredity/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
   - Optimization
-    - [Crossword](./crossword/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
+    - [Crossword](./crossword/) : An AI to find possible solutions for crossword structures.
   - Learning
     - [Shopping](./shopping/) : An AI to predict whether online shopping customers will complete a purchase.
     - [Nim](./nim/) : An AI that teaches itself to play Nim through reinforcement learning.
